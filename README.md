@@ -55,7 +55,7 @@ You do not need HWC to read or write Hive external tables. You can use native Sp
 
 CDP Machine Learning enables enterprise data science teams to collaborate across the full data lifecycle with immediate access to enterprise data pipelines, scalable compute resources, and access to preferred tools.
 
-With R Runtimes and the native integration with the Cloudera Data Platform (CDP) you can easily access data at scale and collaborate with Data Analysts and other project stakeholders. For example, you can access data from CDW via a CML Session to read and write data without the Hive Warehouse Connector. 
+With R Runtimes and the native integration with the Cloudera Data Platform (CDP) you can easily access data at scale and collaborate with Data Analysts and other project stakeholders. For example, you can access data from CDW via a CML Session to read and write data without the Hive Warehouse Connector.
 
 To learn more about the Cloudera Machine Learning Service please visit the documentation at [this page](https://docs.cloudera.com/machine-learning/cloud/product/topics/ml-product-overview.html).
 
@@ -66,3 +66,5 @@ If you are evaluating CML you may also benefit from testing the following demos:
 * [CSA2CML](https://github.com/pdefusco/CSA2CML): Build a real time anomaly detection dashboard with Flink, CML, and Streamlit.
 * [SDX2CDE](https://github.com/pdefusco/SDX2CDE): Explore ML Governance and Security features in SDX to increase legal compliance and enhance ML Ops best practices.
 * [API v2](https://github.com/pdefusco/CML_AMP_APIv2): Familiarize yourself with API v2, CML's goto Python Library for ML Ops and DevOps.
+
+![alt text](img/cml_clouds.png)
